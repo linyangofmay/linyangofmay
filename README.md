@@ -1,17 +1,17 @@
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=35&pause=2000&color=1e00cf&width=1000&height=100&lines=%F0%9F%91%8B+Hi+there%2C+my+name+is+Jake+Ye+a+Full+Stack+Web+Developer)
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&size=35&pause=2000&color=1e00cf&width=1000&height=100&lines=%F0%9F%91%8B+Hi+there%2C+my+name+is+Lyn+Chen+a+Full+Stack+Web+Developer)
 
 
 
 <!-- [github-stats]: -->
 <div align='center'>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakeye25&show_icons=true&theme=gruvbox)](https://github.com/jakeye25)
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakeye25" /> -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=linyangofmay&show_icons=true&theme=gruvbox)]([https://github.com/linyangofmay])
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyangofmay" /> -->
 </div>
 
 ## About me:
 
-I'm a Georgia Tech graduate candidate and software engineer with a passion for problem-solving. I'm always open to learning more and collaborating on projects.
+I am a full stack software engineer who came from a solid nutritional science background with enthusiasm to build up a project from backend to frontend.
 
 
 ## Languages:
@@ -35,12 +35,12 @@ I'm a Georgia Tech graduate candidate and software engineer with a passion for p
 
 
 ## Connect With Me!
-<a href="https://www.linkedin.com/in/jake-ye-a2365250/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://angel.co/u/jia-jun-jake-ye" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/lyn-chen-385ab5b6/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://angel.co/u/lyn-chen-5" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white)</a>
 
 
 <!--
-**jakeye25/jakeye25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**linyangofmay/linyangofmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
