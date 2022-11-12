@@ -1,4 +1,4 @@
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica+Script&size=35&pause=2000&color=1e00cf&width=1000&height=100&lines=%F0%9F%91%8B+Hi+there%2C+my+name+is+Lyn+Chen+a+Full+Stack+Web+Developer)
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica+Script&size=35&pause=2000&color=1e00cf&width=1000&height=100&lines=%F0%9F%91%8B+Hi+there%2C+my+name+is+Lyn+Chen)
 
 
 
