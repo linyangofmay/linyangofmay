@@ -5,7 +5,7 @@
 <!-- [github-stats]: -->
 <div align='center'>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=linyangofmay&show_icons=true&theme=gruvbox)]([https://github.com/linyangofmay])
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=linyangofmay&show_icons=true&theme=transparent)]([https://github.com/linyangofmay])
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyangofmay" /> -->
 </div>
 
